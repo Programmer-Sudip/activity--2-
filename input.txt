@@ -1,0 +1,1 @@
+File is write mode ....Hi! I am Sudip File is append modeHi! I am Sudip 
